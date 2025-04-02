@@ -19,3 +19,5 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 - [View the Python Notebook](./Diabetes_Risk_Predictive_Model.ipynb)
 
 ### **Geospatial Analysis of Chicago Schools**
+- [View the Report]
+- [View the R Code] (
