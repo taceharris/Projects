@@ -17,4 +17,5 @@ R, Tableau, SPSS, Python, data visualization, research design
 
 *Diabete Risk Predictive Model*
 
+[View the Report] (
 [View the Python Notebook](./Diabetes_Risk_Predictive_Model.ipynb)
