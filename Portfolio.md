@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 ## **Projects**  
 
 ### **Diabetes Risk Predictive Model**  
-- [View the Report](./Predictive_Analysis_Project_(Long).pdf)  
+- [View the Report](./Report1.pdf)  
 - [View the Python Notebook](./Diabetes_Risk_Predictive_Model.ipynb)
 
 ### **Geospatial Analysis of Chicago Schools**
