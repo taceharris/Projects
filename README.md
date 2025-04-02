@@ -20,5 +20,5 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 
 ### **Geospatial Analysis of Chicago Schools**
 - [View the Report]
-- [View the R Code] (./Project1.R)
+- [View the R Code]   
   
