@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 - Applied class weighting to improve recall for diabetic cases from **0.03 to 0.76**, trading overall accuracy for sensitivity.  
 **Tools:** Python, pandas, scikit-learn, statsmodels, matplotlib
   
-## Geospatial Analysis of Crime, Neighborhoods, and Schools in Chicago  
+## 2.Geospatial Analysis of Crime, Neighborhoods, and Schools in Chicago  
 [View the Report](./Geospatial_Data_Project.pdf) | [View the R Code](./Project1.R)
 
 **Summary:**  
