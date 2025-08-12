@@ -24,12 +24,27 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 **Key Results:**  
 - Achieved **86% accuracy** in the unweighted model, highly effective for identifying non-diabetic individuals.  
 - Applied class weighting to improve recall for diabetic cases from **0.03 to 0.76**, trading overall accuracy for sensitivity.  
-**Tools:** Python, pandas, scikit-learn, statsmodels, matplotlib  
+**Tools:** Python, pandas, scikit-learn, statsmodels, matplotlib
+  
+## Geospatial Analysis of Crime, Neighborhoods, and Schools in Chicago  
+[View the Report](./Geospatial_Data_Project.pdf) | [View the R Code](./Project1.R)
 
+**Summary:**  
+Conducted a geospatial analysis of crime distribution across Chicago with a focus on identifying high-risk areas near schools. Used city-provided crime, school location, zip code, and community area data to map risk patterns and assess property crime proximity to schools.
 
-### **Geospatial Analysis of Chicago Schools**
-- [View the Report](./Geospatial_Data_Project.pdf)
-- [View the R Code](./Project1.R)
+**Key Methods & Tools:**  
+- **Tools:** R, RStudio, `sf` package, `ggplot2`  
+- **Data Sources:** City of Chicago crime data & school location datasets  
+- Created shapefiles for mapping, categorized crime rates by zip code and community area  
+- Applied buffer zones (0.5 and 1 mile) to assess property crime incidents near schools  
+- Generated thematic maps and bar charts ranking schools by nearby property crime incidents
+
+**Key Findings:**  
+- **Crime Concentration:** High-risk zip codes cluster in central Chicago, while community-level mapping shows pockets of high crime in the north-central and south-central areas.  
+- **School Risk Zones:** Northwest Chicago has a dense cluster of schools with high property crime within 0.5 miles; Bouchet School had the highest within 1 mile, Ombudsman-Northwest High School the lowest.  
+- **Disparities in Crime:** Crime distribution is highly uneven — the highest-crime community experiences **46x more incidents** than the lowest, and the highest-crime zip code sees **151x more incidents** than the lowest.  
+- **Measurement Differences:** Some areas appear low-risk by community boundaries but high-risk by zip code, highlighting the importance of scale in crime analysis.
+
 
 ## Contact
 - **LinkedIn:** [https://www.linkedin.com/in/tace-harris/]
