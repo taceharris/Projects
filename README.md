@@ -51,7 +51,7 @@ Conducted a geospatial analysis of crime distribution across Chicago with a focu
 - **Measurement Differences:** Some areas appear low-risk by community boundaries but high-risk by zip code, highlighting the importance of scale in crime analysis.
 
 ## 3. Sentiment and Predictive Analysis of Reddit Disability Discussions  
-[View Full Report](link-to-your-pdf) | 
+[View Full Report](./RedditScraping.pdf) | 
 
 **Summary:**  
 Analyzed over 2,000 Reddit comments from the r/AskReddit thread *“People with disabilities, what is something that’s normal for others but a nightmare for you?”* to explore how people with disabilities describe their daily experiences. Applied sentiment analysis, feature engineering, and predictive modeling to uncover emotional patterns, recurring themes, and classification accuracy.
