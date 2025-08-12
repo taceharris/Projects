@@ -32,7 +32,7 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 <img width="325" height="330" alt="download (1)" src="https://github.com/user-attachments/assets/5dc215f4-fff6-4448-a00f-67d329ca3d4b" />
 
 ## 2.Geospatial Analysis of Crime, Neighborhoods, and Schools in Chicago  
-[View the Report](./Geospatial_Data_Project.pdf) | [View the R Code](./Project1.R)
+[View the Report](./Geospatial_Data_Project.pdf) | [View the R Code](./Geospatial.R)
 
 **Summary:**  
 Conducted a geospatial analysis of crime distribution across Chicago with a focus on identifying high-risk areas near schools. Used city-provided crime, school location, zip code, and community area data to map risk patterns and assess property crime proximity to schools.
