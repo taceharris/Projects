@@ -1,6 +1,6 @@
 # **Tace Harris**  
 
-Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with a minor in Quantitative Methods in the Social Sciences at The University of Michigan. My work focuses on the intersection of public policy and data analysis, and I have a deep intrest in health related issues.. I have experience in research, statistical analysis, and working with big data, with a particular interest in healthcare.  
+Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with a minor in Quantitative Methods in the Social Sciences at The University of Michigan. My work focuses on the intersection of public policy and data analysis, and I have a deep intrest in health related issues. I have experience in research, statistical analysis, and working with big data.
 
 ## **About Me**  
 
