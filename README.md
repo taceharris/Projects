@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I'm Tace Harris, a Political Science major with 
 ## **About Me**  
 
 ### **Education**  
-- **Bachelor of Arts**, The University of Michigan – * Honors Political Science & QMSS Minor*  
+- **Bachelor of Arts**, The University of Michigan – *Honors Political Science & QMSS Minor*  
 - **Associate of Arts**, Harrisburg Area Community College – *Social Sciences*  
 
 ### **Technical Skills**  
